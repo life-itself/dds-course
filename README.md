@@ -9,9 +9,23 @@ https://news.lifeitself.org/p/introduction-to-deliberately-developmental
 - [[Why we want DDS - three levels a) second renaissance b) resilience in metacrisis c) simple flourishing]]
 - [[Raw 2 - development  is multidimensional and science of ontogenesis is very recent]]
 - [[Raw 3 - Intro to (inner) development and its multidimensional (multi-domain) nature]]
+- [[Raw 4 - unidimensional models and their problems]] (maybe skip)
+- [[Raw 5 - cognitive domain, MHC and neo-piagetian synthesis]]
+  - [[Raw 5a - the hierarchical complexity idea and how we can use it to make a map and create a compass]]
+  - [[Raw 5b summary and linking it to domains, maps, compasses and rafts]]
+- [[Raw 6 - waking up]]
+- [[Raw 7 - rafts]]
 
 ### Asides / Zettels
 
 - [[What terminology to use? inner development, inner growth, ontogenesis, cultivating inner capacities?]]
 - [[Correlation in the Wilber-Coombs matrix and generally correlation and complementarity across domains]]
 - [[Wilber on the domains distinction (Wilber V vs III and IV)]]
+
+# 📥 Inbox
+
+- [ ] ➕2025-01-30 some notes for materials that I could include into the course.
+  - [ ] the piece from Red Hill Mining Community by Tony Parker, which is about the woman changing her view, and that should go into growing up.
+  - [ ] Then there's the section from Zeldin's An Intimate History of Humanity, that could also go into growing up.
+  - [ ] A Clip of Maharana Maharishi.
+- [ ] ➕2025-01-30 [[Prompt questions for the course]] -- todo integrate into the overall script
