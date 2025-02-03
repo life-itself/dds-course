@@ -1,0 +1,7 @@
+- Ontogenesis
+- Ontogenetics
+- Inner development
+- Inner capacities
+- Cultivating inner capacities
+- Cultural paradigms
+- Effective value meme
