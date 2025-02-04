@@ -1,3 +1,8 @@
+
+- [ ] ➕2025-02-04 Is morality a distinct domain? (Do we mean moral reasoning or moral action).
+  - [ ] What about connection with sensing value (see next item)
+  - [ ] How is morality related to "zone of concern" or care?
+- [ ] ➕2025-02-04 Is value-ception a real capacity? If so, in what domain is it cultivated? How does it real to morality?
 ## 🤖
 
 ### Tidied Text with Original Language and Formatting  

@@ -29,3 +29,13 @@ https://news.lifeitself.org/p/introduction-to-deliberately-developmental
   - [ ] Then there's the section from Zeldin's An Intimate History of Humanity, that could also go into growing up.
   - [ ] A Clip of Maharana Maharishi.
 - [ ] ➕2025-01-30 [[Prompt questions for the course]] -- todo integrate into the overall script
+- [ ] ➕2025-02-04 Look for Theo Dawson diagram (is it in FOLA) showing an individual trajectory with a lot of movement over assessments
+- [ ] ➕2025-02-04 Need an example of how confusion over domains and maps etc leads to problems (especially in creating and navigating rafts)
+  - [ ] Phlogiston as example from physical sciences ...
+  - [ ] Maybe Martin example of combining positive psych practices (re cleaning up?) with awakening practices was useful
+  - [ ] Yates/Culadasa personal example
+  - [ ] [[Example of how lack of map causes problem in meditation (Mind Iluminated)]]
+- [ ] Example of how waking up is not growing up (?) - example of climate crisis. (or at least does not lead to convergence on shared views of what constitutes knowledge and what that knowledge is ...)
+  - [ ] Rufus' personal experiences with Finders community
+  - [ ] see also Jeffrey Martin re implicit racism test
+  - [ ] examples from LI daily instagram and implicit new-age-y assumption that waking up (on its own) will lead to caring differently about the world (e.g. stopping climate crisis)

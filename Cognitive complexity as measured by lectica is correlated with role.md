@@ -1,0 +1,3 @@
+![[Pasted image 20250204104402.png]]
+
+> There is a strong relation between the complexity of leadership roles and the complexity level of leaders’ reasoning. In general, more complex thinkers fill more complex roles. The figure below shows how lower and senior level leaders’ [complexity scores are distributed](http://theodawson.net/vertical-development-leadership-skills/) in Lectica’s database. Most senior leaders’ complexity scores are in or above advanced systems thinking, while those of lower level leaders are primarily in early systems thinking. [https://medium.com/age-of-awareness/the-complexity-of-national-leaders-thinking-how-does-it-measure-up-d848d5ee53b8]

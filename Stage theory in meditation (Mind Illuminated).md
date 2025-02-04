@@ -1,0 +1,5 @@
+Clear, "hard" stage theory statement:
+
+> Each of the Ten Stages on the path to becoming an adept meditator is defined in terms of certain skills that you have to master. **Only when you have mastered the skills of a particular Stage will you be able to master the next Stage.** This is because your abilities as a meditator gradually build on each other. Just as you have to learn to walk before you can run, you must move through the Stages in order, without skipping any of them. To make progress, you should correctly determine your current Stage, work diligently with the techniques you’re given, and move on only when you have achieved mastery. Mastery of one Stage is a requirement for the mastery of the next, and none can be skipped. Taking “shortcuts” just creates problems and ultimately prolongs the process—so they’re not really shortcuts. Diligence is all you need to make the fastest progress possible.
+
+From "An Overview of the Ten Stages" in [[Mind Illuminated (Book)]]

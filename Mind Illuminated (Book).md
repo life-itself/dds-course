@@ -1,0 +1,1 @@
+![[mind-illuminated-cover.jpg]]
