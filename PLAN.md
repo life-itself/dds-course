@@ -6,4 +6,5 @@ Prep
 Session 1
 
 - [ ] Welcome (transfer from 2R course)
-- [ ] 
+- [ ] Metacrisis motivation ...
+  - [ ] 

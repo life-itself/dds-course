@@ -1,13 +1,12 @@
 ---
-title: "Leader decisions part 1: How good are Leaders’ VUCA skills?"
-source: "https://theo-dawson.medium.com/leaders-vuca-skills-how-good-are-they-85f69d5c8eac"
+source: https://theo-dawson.medium.com/leaders-vuca-skills-how-good-are-they-85f69d5c8eac
 author:
   - "[[Theo Dawson]]"
 published: 2018-10-12
 created: 2025-02-04
-description: "We’ve just analyzed 16 years of data regarding leaders’ skills for managing volatility, uncertainty, complexity, and ambiguity. The results are sobering."
+description: We’ve just analyzed 16 years of data regarding leaders’ skills for managing volatility, uncertainty, complexity, and ambiguity. The results are sobering.
 tags:
-  - "clippings"
+  - clippings
 ---
 Notes
 

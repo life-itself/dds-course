@@ -1,5 +1,4 @@
 ---
-title: Skills (A.K.A. skill levels or orders of hierarchical complexity)
 source: https://lectica.org/about/skill-levels
 author:
   - Theo Dawson

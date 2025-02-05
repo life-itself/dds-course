@@ -1,5 +1,4 @@
 ---
-title: Level comparison
 source: https://lectica.org/about/scoring-comparison
 author:
   - Theo Dawson
@@ -9,8 +8,6 @@ description:
 tags:
   - clippings
 ---
----
-
 The table below shows how the levels of different developmental systems are aligned.
 
 We have not included sentence completion tests here because research has shown that these assessments are not measures of the same dimension tapped by instruments that emerged from the [Piagetian](http://www.piaget.org/aboutPiaget.html) tradition.
@@ -19,23 +16,23 @@ Scroll down for video and table references.
 
 ---
 
-|Lectical Level|Skill Levels  <br>(Fischer)|GMHC  <br>(Commons)|SISS  <br>(Kohlberg)|GLSS  <br>(Armon)|RJ  <br>(Kitchener & King|SOI  <br>(Kegan)|Strata  <br>(Jaques)|
-|---|---|---|---|---|---|---|---|
-|14||cross-paradigmatic||||||
-|13|principled mappings|paradigmatic|Stage 6||Stages 6 & 7|||
-|12|single principles|metasystematic|Stage 5|Stage 5|Stage 5|5th order consciousness|6-7|
-|11|abstract systems|systematic|Stage 4|Stage 4|Stage 4|4th order consciousness|3-5|
-|10|abstract mappings|formal|Stage 3|Stage 3|Stage 3|3th order consciousness|1-2|
-|9|single abstractions|abstract|Stage 2|Stage 2|Stage 2|2nd order consciousness||
-|8|representational systems|concrete|Stage 1|Stage 1|Stage 1|1st order consciousness||
-|7|representational mappings|primary||||||
-|6|single representations|operational||||||
-|5|sensorimotor systems|sentential||||||
-|4|sensorimotor mappings|nominal||||||
-|3|single sensorimotor schemes|sensory-motor||||||
-|2|reflexive systems|circular densory-motor||||||
-|1|Reflexive mappings|sensory or motor||||||
-|0|Single reflexes|calculatory||||||
+| Lectical Level | Skill Levels (Fischer) | GMHC  (Commons)    | SISS (Kohlberg) | GLSS (Armon) | RJ (Kitchener & King | SOI (Kegan)        | Strata (Jaques) |
+| -------------- | --------------------------- | ---------------------- | -------------------- | ----------------- | ------------------------- | ----------------------- | -------------------- |
+| 14             |                             | cross-paradigmatic     |                      |                   |                           |                         |                      |
+| 13             | principled mappings         | paradigmatic           | Stage 6              |                   | Stages 6 & 7              |                         |                      |
+| 12             | single principles           | metasystematic         | Stage 5              | Stage 5           | Stage 5                   | 5th order consciousness | 6-7                  |
+| 11             | abstract systems            | systematic             | Stage 4              | Stage 4           | Stage 4                   | 4th order consciousness | 3-5                  |
+| 10             | abstract mappings           | formal                 | Stage 3              | Stage 3           | Stage 3                   | 3th order consciousness | 1-2                  |
+| 9              | single abstractions         | abstract               | Stage 2              | Stage 2           | Stage 2                   | 2nd order consciousness |                      |
+| 8              | representational systems    | concrete               | Stage 1              | Stage 1           | Stage 1                   | 1st order consciousness |                      |
+| 7              | representational mappings   | primary                |                      |                   |                           |                         |                      |
+| 6              | single representations      | operational            |                      |                   |                           |                         |                      |
+| 5              | sensorimotor systems        | sentential             |                      |                   |                           |                         |                      |
+| 4              | sensorimotor mappings       | nominal                |                      |                   |                           |                         |                      |
+| 3              | single sensorimotor schemes | sensory-motor          |                      |                   |                           |                         |                      |
+| 2              | reflexive systems           | circular densory-motor |                      |                   |                           |                         |                      |
+| 1              | Reflexive mappings          | sensory or motor       |                      |                   |                           |                         |                      |
+| 0              | Single reflexes             | calculatory            |                      |                   |                           |                         |                      |
 
 ## References
 

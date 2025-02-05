@@ -3,14 +3,22 @@ In thinking about the value of and need for DDS (Deliberately Developmental Spac
 
 1. **(Crucibles of a Second Renaissance) Incubators/Greenhouses of Deep Cultural Evolution (Foundational Need).** we have a need for cultural change at a foundational level. DDS are spaces that can foster these profounds shifts in being and culture. They are spaces that support innovation in culture, values, and paradigms, which are essential for a second renaissance. Historically, such shifts require experimentation and the courage to pioneer novel approaches, and DDS provides the environment to nurture these changes.
 2. **Resilience in the face of the polycrisis/metacrisis:** DDS fosters resilience and relational capacities in individuals and communities. These spaces allow participants to navigate challenges constructively, turning potential breakdowns into opportunities for learning and growth. By emphasizing interpersonal connection, mutual support, and resilience, DDS strengthens the social fabric, empowering individuals to live more fulfilling and integrated lives. This is crucial at a moment when escalating crises may challenge us personally and collectively.
-3. **Flourishing: General Capacities for Satisfying Life (Practical Application):**  
-   DDS develops practical capacities that enhance day-to-day life, such as clarity, emotional comfort, and the ability to live harmoniously with others. In an atomized society, these spaces enable people to cultivate relational skills, empathy, and a sense of shared purpose, ultimately leading to greater satisfaction and collective progress.
+3. **Flourishing: General Capacities for Satisfying Life (Practical Application):** DDS develops practical capacities that enhance day-to-day life, such as clarity, emotional comfort, and the ability to live harmoniously with others. In an atomized society, these spaces enable people to cultivate relational skills, empathy, and a sense of shared purpose, ultimately leading to greater satisfaction and collective progress.
 
 In short, DDS are:
 
 - incubators/greenhouses for producing the deep cultural (r)evolution
 - environments for building psycho-social resilience
 - general training for flourishing lives (enhancing life satisfaction through shared growth and development).
+
+## Additional table
+
+| Category               | Description                                                               | Key Capacities Required                                                                  | Evidence & Mainstream Acceptance (1-3) | Depth of Work Required (1-4) | DDS Relevance (1-3) |
+| ---------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------- | ---------------------------- | ------------------- |
+| Flourishing            | Enhancing individual and collective well-being through known methods.     | Mindfulness, therapy, positive psychology, community well-being programs.                | 3                                      | 1/2                          | 1                   |
+| Resilience             | Building systemic and community robustness to crises and transformations. | Adaptive governance, systemic foresight, psychological resilience, networked mutual aid. | 2                                      | 3                            | 2                   |
+| Ontocultural Evolution | Shaping the evolution of cultural and ontological paradigms.              | Deliberate Developmental Spaces, paradigm-shifting discourse, deep epistemic shifts.     | 1                                      | 4                            | 3                   |
+```
 
 ## Raw
 

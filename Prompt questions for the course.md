@@ -11,14 +11,10 @@
 
 I already have much of this covered in the other course on the Second Renaissance, so we don’t need as much here. However, to give an example, we could ask:  
 
-1. *What examples of cracks or escalating crises do you see in our society?*  
-   - A classic example would be the climate crisis—serious, worsening, and global.  
-
-2. *In what ways might these crises be foundational?*  
-   - How do they represent or connect to cracks in the underlying structures of our society?  
-
-3. *In what ways could profound shifts in being—personally, collectively, and culturally—contribute to addressing these challenges or achieving new breakthroughs?*  
-   - This isn’t only about responding to crises; it could also be about unlocking new levels of human flourishing.  
+1. What examples of cracks or escalating crises do you see in our society?  A classic example would be the climate crisis—serious, worsening, and global.  
+2. In what ways might these crises be foundational? How do they represent or connect to cracks in the underlying structures of our society?  
+3. In what ways could profound shifts in being—personally, collectively, and culturally—contribute to addressing these challenges or achieving new breakthroughs?  
+   - This isn’t only about responding to crises; it could also be about unlocking new levels of human flourishing and performance personally and collectively.  
 
 These three questions relate to **Section One: Why Deliberately Developmental Spaces?**  
 

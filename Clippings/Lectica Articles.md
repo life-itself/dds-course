@@ -1,13 +1,13 @@
 ---
-title: "Articles"
-source: "https://lectica.org/about/articles/"
+title: Lectica Articles
+source: https://lectica.org/about/articles/
 author:
   - "[[FFFFFF]]"
-published:
+published: 
 created: 2025-02-04
-description:
+description: 
 tags:
-  - "clippings"
+  - clippings
 ---
 ## Featured
 

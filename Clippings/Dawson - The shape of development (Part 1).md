@@ -1,13 +1,12 @@
 ---
-title: "The shape of development (Part 1)"
-source: "https://theo-dawson.medium.com/the-shape-of-development-part-1-d8a02f50f4e7"
+source: https://theo-dawson.medium.com/the-shape-of-development-part-1-d8a02f50f4e7
 author:
   - "[[Theo Dawson]]"
 published: 2023-07-08
 created: 2025-02-04
-description: "At Lectica (the nonprofit that owns me), we create formative developmental assessments that are scored for developmental level (Lectical Level) with CLAS—our computerized developmental scoring…"
+description: At Lectica (the nonprofit that owns me), we create formative developmental assessments that are scored for developmental level (Lectical Level) with CLAS—our computerized developmental scoring…
 tags:
-  - "clippings"
+  - clippings
 ---
 ![](https://miro.medium.com/v2/resize:fit:1400/1*VkoBfQy0o6DapnmUYC8DHA.png)
 
