@@ -1,0 +1,4 @@
+- Illustration of a domain with a map
+- Martin: what he has discovered in waking up dimension
+- His study illustrates why we want to do this kind of work
+  - surprisingly powerful results in a domain we would have been sceptical of empirical / scientific methods. 

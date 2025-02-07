@@ -146,7 +146,7 @@ The wonky density profiles and teacher reports aren’t the only indicators that
 - Student 7: Because they were like the ice would melt and it would form into the other water and the other water would bring up or something like that.
 - Student 5: The water’s heat is making sweat drops come up from the inside.
 
-**Condense (**09b term)
+**Condense** (09b term)
 
 - Student 4: the water goes together and then becomes a fluffy thing in the cloud and then after that, the cloud condenses into the water and they make a whiter cloud.
 - Student 3: Well it’s sort of like condensed milk. It’s sort of … it’s like … it’s almost like pudding, almost.
@@ -164,7 +164,3 @@ Neither these questions nor those I posed at the beginning of this article can b
 ## Next steps
 
 Over the next weeks and months, I’ll be taking a longitudinal look at the density profiles and responses of children who were tested multiple times over several years to examine the question: “What is the relation between the shape of density profiles and mental development over time?”
-
-![](https://miro.medium.com/v2/resize:fit:1400/1*TYG2hZsD_e1j6cC0oBRQvA.png)
-
-[ViP info](https://lecticalive.org/about/vip) | [ViP rationale](https://theo-dawson.medium.com/everyone-should-have-the-opportunity-to-develop-optimally-14fc4d49141?sk=b5355e095984eec4831e7633e7eb044f)

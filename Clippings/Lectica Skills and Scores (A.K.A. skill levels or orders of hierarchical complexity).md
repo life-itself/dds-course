@@ -45,6 +45,10 @@ Usually, the difference between a score provided with an earlier version of the 
 
 ### Another plain English description of Lectical Levels (slides)
 
+Good explanation of the idea of levels.
+
+![[Pasted image 20250206124446.png]]
+
 ---
 
 ### A *more* academic description of Lectical Levels
@@ -104,41 +108,3 @@ When using this table in educational contexts, keep in mind that in level 11, an
 | 920–965 | - find out what people want, like, or think is right | grade 4-5 |  |
 | 900–945 | - try to figure out why a problem has happened | grade 3-4 |  |
 | 880–925 | - try to figure out the *best* thing to do or who has the best idea - think about what makes sense | grade 2-3 |  |
-
-IES (US Department of Education)
-
-The Spencer Foundation
-
-NIH
-
-Dr. Sharon Solloway
-
-The Simpson Foundation
-
-The Leopold Foundation
-
-[Donor list](https://lectica.org/about/donors-large)
-
-Glastonbury School District, CT
-
-The Ross School
-
-Rainbow Community School
-
-The Study School
-
-Long Trail School
-
-The US Naval Academy
-
-The City of Edmonton, Alberta
-
-The US Federal Government
-
-Antonio Battro, MD, Ph.D., *[One Laptop Per Child](http://one.laptop.org/)*
-
-Marc Schwartz, Ph.D. and former high school teacher, *[University of Texas at Arlington](https://mentis.uta.edu/explore/profile/marc-schwartz)*
-
-Mary Helen Immordino-Yang, Ed.D., *[University of Southern California](https://rossier.usc.edu/the-science-of-social-learning-the-research-of-mary-helen-immordino-yang/)*
-
-Willis Overton, Ph.D.*, Temple University, Emeritus*

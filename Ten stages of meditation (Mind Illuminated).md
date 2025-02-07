@@ -1,5 +1,7 @@
 ![[ten-stages-meditation.jpeg]]
 
+![[Pasted image 20250206134330.png]]
+
 > The Ten Stages of Meditation: The monk is the meditator. The rope he holds represents vigilant, alert mindfulness. The goad in his other hand represents strong intention and firm resolve. The elephant represents the mind. The black color of the elephant represents the Five Hindrances and the Seven Problems they give rise to. The monkey represents scattering of attention, and the black color represents subtle and gross distraction, forgetting, and mind-wandering. The rabbit represents subtle dullness. The flames represent vigilance and effort, and when effort is no longer required, the flames disappear. The length of the road between successive Stages indicates the relative time required to progress from one Stage to the next. The Stages come closer together until Stage Seven, then they begin to stretch out again. Because the road folds back, it is possible to jump up to higher Stages or fall back to lower ones.
 
 From first section of [[Mind Illuminated (Book)]]

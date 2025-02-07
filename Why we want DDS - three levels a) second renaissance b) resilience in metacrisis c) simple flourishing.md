@@ -1,3 +1,4 @@
+# Why we want DDS - three levels a) second renaissance b) resilience in metacrisis c) simple flourishing
 
 In thinking about the value of and need for DDS (Deliberately Developmental Spaces) we can see three distinct levels emerge:
 
@@ -18,7 +19,6 @@ In short, DDS are:
 | Flourishing            | Enhancing individual and collective well-being through known methods.     | Mindfulness, therapy, positive psychology, community well-being programs.                | 3                                      | 1/2                          | 1                   |
 | Resilience             | Building systemic and community robustness to crises and transformations. | Adaptive governance, systemic foresight, psychological resilience, networked mutual aid. | 2                                      | 3                            | 2                   |
 | Ontocultural Evolution | Shaping the evolution of cultural and ontological paradigms.              | Deliberate Developmental Spaces, paradigm-shifting discourse, deep epistemic shifts.     | 1                                      | 4                            | 3                   |
-```
 
 ## Raw
 

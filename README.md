@@ -4,6 +4,14 @@ Knowledgebase for the prototype course "Intro to Deliberately Developmental Spac
 
 https://news.lifeitself.org/p/introduction-to-deliberately-developmental
 
+## Library
+
+Library and readings for the course on Zotero:
+
+https://www.zotero.org/groups/1488090/life-itself/collections/5D5EP2HJ
+
+See https://lifeitself.org/tao/library for notes on access.
+
 ## Materials so far
 
 - [[Why we want DDS - three levels a) second renaissance b) resilience in metacrisis c) simple flourishing]]
@@ -39,3 +47,7 @@ https://news.lifeitself.org/p/introduction-to-deliberately-developmental
   - [ ] Rufus' personal experiences with Finders community
   - [ ] see also Jeffrey Martin re implicit racism test
   - [ ] examples from LI daily instagram and implicit new-age-y assumption that waking up (on its own) will lead to caring differently about the world (e.g. stopping climate crisis)
+
+🆘
+
+- [ ] Get charts out of appendix of [[Integral Psychology]] and add to the blog post on https://lifeitself.org/blog/2019/02/25/ken-wilber-integral-psychology

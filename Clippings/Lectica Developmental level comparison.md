@@ -16,6 +16,8 @@ Scroll down for video and table references.
 
 ---
 
+![[Pasted image 20250206105332.png]]
+
 | Lectical Level | Skill Levels (Fischer) | GMHC  (Commons)    | SISS (Kohlberg) | GLSS (Armon) | RJ (Kitchener & King | SOI (Kegan)        | Strata (Jaques) |
 | -------------- | --------------------------- | ---------------------- | -------------------- | ----------------- | ------------------------- | ----------------------- | -------------------- |
 | 14             |                             | cross-paradigmatic     |                      |                   |                           |                         |                      |

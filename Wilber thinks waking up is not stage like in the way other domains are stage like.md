@@ -1,0 +1,7 @@
+From [[Integral Spirituality]]
+
+> Notice another very important point. In certain types of psychological and spiritual training, you can be introduced to a full spectrum of **states** of consciousness and bodily experiences right from the start—as a peak experience, meditative state, shamanic vision, altered state, and so on. The reason these peak experiences are possible is that many of the major states of consciousness (such as waking-gross, dreaming-subtle, and formless-causal) are ever-present possibilities. So you can very quickly be introduced to many **higher states** of consciousness.
+>
+> You cannot, however, be introduced to all the qualities of **higher stages** without actual growth and practice. You can have a peak experience of higher _states_ (like seeing an interior subtle light or having a feeling of oneness with all of nature), because many states are ever-present, and so they can be “peek”-experienced right now. But you cannot have a peak experience of a higher _stage_ (like being a concert-level pianist), because stages unfold sequentially and take considerable time to develop. Stages build upon their predecessors in very concrete ways, so they cannot be skipped: like atoms to molecules to cells to organisms, you can’t go from atoms to cells and skip molecules. This is one of the many important differences between states and stages.
+
+This is directly followed by a quote positing [[Wilber things there is a complementarity between waking up (states) and stages (growing up?)]]
