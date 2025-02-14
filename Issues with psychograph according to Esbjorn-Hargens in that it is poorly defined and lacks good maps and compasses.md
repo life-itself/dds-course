@@ -4,6 +4,8 @@ From PSYCHOGRAPH AS MAP, MATRIX, AND MIRROR: An Integral Psychograph Assessment 
 
 Indeed.
 
+Refs: [[Psychograph]]
+
 ## Full context
 
 ![[assets/Pasted image 20250202232911.png]]
