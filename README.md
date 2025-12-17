@@ -47,6 +47,13 @@ See https://lifeitself.org/tao/library for notes on access.
   - [ ] Rufus' personal experiences with Finders community
   - [ ] see also Jeffrey Martin re implicit racism test
   - [ ] examples from LI daily instagram and implicit new-age-y assumption that waking up (on its own) will lead to caring differently about the world (e.g. stopping climate crisis)
+- [ ] ➕2025-02-15 - ideas for course
+  - [ ] Catalina and fundamental well-being
+  - [ ] Climate crisis and fundamental well-being people 
+  - [ ] In-effectiveness of meditation (finders course)
+  - [ ] The experience of doing (landmark)
+  - [ ] What was going on at school
+  - [ ] Show examples of type of thinking about an issue from nsa study 
 
 🆘
 
