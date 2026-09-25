@@ -1,5 +1,9 @@
 # Intro to Deliberately Developmental Spaces
 
+> [!WARNING]
+> **Deprecated — migrated to [developmentalspaces.org](https://developmentalspaces.org/).**
+> This repository is no longer maintained and is archived as a read-only historical reference. Please visit [developmentalspaces.org](https://developmentalspaces.org/) for the current content.
+
 Knowledgebase for the prototype course "Intro to Deliberately Developmental Spaces"
 
 https://news.lifeitself.org/p/introduction-to-deliberately-developmental
